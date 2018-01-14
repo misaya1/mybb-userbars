@@ -72,9 +72,10 @@
 
 ## Release History
 
-
+* v1.02
+    * Fixed userbar border to be same size across the browsers.
 * v1.01
-    * Added *.userbar* class to both the minified and unminified css.
+    * Added *.userbar* class to the css file.
 * v1
     * Initial commit
 
