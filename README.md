@@ -72,6 +72,9 @@
 
 ## Release History
 
+
+* v1.01
+    * Added *.userbar* class to both the minified and unminified css.
 * v1
     * Initial commit
 
