@@ -11,16 +11,16 @@ div.userbar {
 }
  .userbar.new-member {
      background: #636363;
-     border: 1px solid transparent;
+     border: 0.5px solid transparent;
 }
  .userbar.member {
      background: #3d899b;
-     border: 1px solid #88c2d0;
+     border: 0.5px solid #88c2d0;
 }
  .userbar.helper {
      position: relative;
      background: #3d5a9b;
-     border: 1px solid #889ed0;
+     border: 0.5px solid #889ed0;
 }
  .userbar.helper:after {
      content: '\f128';
@@ -39,12 +39,12 @@ div.userbar {
 }
  .userbar.helper2 {
      background: #3d5a9b;
-     border: 1px solid #889ed0;
+     border: 0.5px solid #889ed0;
 }
  .userbar.upgraded {
      position: relative;
      background: #45762f;
-     border: 1px solid #9ed088;
+     border: 0.5px solid #9ed088;
 }
  .userbar.upgraded:after {
      content: '\f234';
@@ -63,12 +63,12 @@ div.userbar {
 }
  .userbar.upgraded2 {
      background: #45762f;
-     border: 1px solid #9ed088;
+     border: 0.5px solid #9ed088;
 }
  .userbar.moderator {
      position: relative;
      background: #602f76;
-     border: 1px solid #8d45ad;
+     border: 0.5px solid #8d45ad;
 }
  .userbar.moderator:after {
      content: '\f0e3';
@@ -87,5 +87,5 @@ div.userbar {
 }
  .userbar.moderator2 {
      background: #602f76;
-     border: 1px solid #8d45ad;
+     border: 0.5px solid #8d45ad;
 }
